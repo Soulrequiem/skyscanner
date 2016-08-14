@@ -5,7 +5,7 @@ using System.Web;
 
 namespace skyScanner.Models
 {
-    public class AirplaneTickets
+    public class airplaneQuote
     {
         public class OutboundLeg
         {
